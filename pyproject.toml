@@ -1,0 +1,7 @@
+[project]
+name = "genpark-legal-contract-clause-redliner-and-compliance-auditor-skill"
+version = "1.0.0"
+description = "Contract clause deviation detector, indemnity risk scorer, and automated redlining auditor for enterprise legal workflows"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
